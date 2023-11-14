@@ -9,11 +9,9 @@ Currently, two official plugins are available:
 
 # Registration Page
 
-
-
+![Alt text](image-1.png)
 
 # Login Page
 
-# ForgotPassword Page
+![Alt text](image.png)
 
-# Error Page
