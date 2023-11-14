@@ -9,9 +9,15 @@ Currently, two official plugins are available:
 
 # Registration Page
 
-![Alt text](image-1.png)
+![image](https://github.com/c2hsasi/password-reset-frontend-/assets/129680190/ff0639a0-4fbc-4e7b-bd63-4ac35db1b5ab)
+
 
 # Login Page
 
-![Alt text](image.png)
+![image](https://github.com/c2hsasi/password-reset-frontend-/assets/129680190/b917ecd1-4fb9-4715-a4ea-8fa0789bb684)
+
+
+# Error Page
+
+![image](https://github.com/c2hsasi/password-reset-frontend-/assets/129680190/473ed7bd-caa9-47e4-8407-c457ec0da6f9)
 
